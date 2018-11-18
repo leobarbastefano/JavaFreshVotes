@@ -1,1 +1,1 @@
-# java_fresh_votes
+# JavaFreshVotes
