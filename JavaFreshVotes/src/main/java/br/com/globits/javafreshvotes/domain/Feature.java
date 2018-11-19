@@ -13,7 +13,7 @@ public class Feature {
 	private String descripton;
 	private String status;
 	
-//	the code below generate the table in mysql........
+//	the code below generate the table in mysql. 11/19/18
 	
 	@Id @GeneratedValue(strategy=GenerationType.IDENTITY)
 	public long getId() {
