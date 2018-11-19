@@ -10,6 +10,7 @@ public class CommentId implements Serializable {
 	/**
 	 * this code generates a randon id
 	 */
+	
 	private static final long serialVersionUID = -511017365481736104L;
 	private User user;
 	private Feature feature;
